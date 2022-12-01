@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategray;
+}
+
+.mainDiv{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #f78501;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
